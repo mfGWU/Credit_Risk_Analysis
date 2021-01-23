@@ -37,5 +37,5 @@ The purpose of this analysis is to apply data preparation, statistical reasoning
 
 
 # Summary: 
-¬
+
 Looking at the results of the six algorithms the Classifiers were 99% accurate comparing them to the Oversampling, Undersampling and Combination algorithms.  The Oversampling and Undersampling algorithms were 66% accurate while the Combination was 53% accurate.  I am impress with accuracy of the Classifiers but can not recommend them for now as I need more data and understanding to support my recommendation and especially when the accuracy is 99%.  The same for the Oversampling, Undersampling and Combination algorithms, I can not recommend them yet without further studies.   With Oversampling and Undersampling average 66% accuracy, I am inclined to recommend them because their accuracy seen realistic.
